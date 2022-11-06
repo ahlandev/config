@@ -1,0 +1,116 @@
+{
+  "ads": {
+    "ad_type": "admob",
+    "ad_status": "1",
+    "backup_ads": "none",
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "startapp_app_id": "0",
+    "onesignal_app_id": "ce397a56-303d-4c80-9d22-84bd19945435",
+    "admob_publisher_id": "pub-3940256099942544",
+    "fan_banner_unit_id": "",
+    "fan_native_unit_id": "",
+    "ironsource_app_key": "85460dcd",
+    "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "ironsource_banner_id": "DefaultBanner",
+    "applovin_banner_zone_id": "0",
+    "fan_interstitial_unit_id": "",
+    "interstitial_ad_interval": 1,
+    "ad_manager_banner_unit_id": "/6499/example/banner",
+    "ad_manager_native_unit_id": "/6499/example/native",
+    "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "applovin_banner_ad_unit_id": "0",
+    "ironsource_interstitial_id": "DefaultInterstitial",
+    "applovin_interstitial_zone_id": "0",
+    "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+    "applovin_interstitial_ad_unit_id": "0",
+    "applovin_native_ad_manual_unit_id": "0"
+  },
+  "channels": [
+    {
+      "channel_id": "1",
+      "channel_url": "https://stream.crichd.vip/update/skys2.php",
+      "channel_name": "Channel 1",
+      "channel_type": "2",
+      "category_name": "Category 1",
+      "channel_image": "",
+      "channel_description": "<a href='https://bing.com'>bing</a>"
+    },
+    {
+      "channel_id": "2",
+      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_name": "Channel 2",
+      "channel_type": "2",
+      "category_name": "Category 1",
+      "channel_image": "",
+      "channel_description": ""
+    },
+    {
+      "channel_id": "3",
+      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_name": "Channel 3",
+      "channel_type": "2",
+      "category_name": "Category 3",
+      "channel_image": "",
+      "channel_description": ""
+    },
+    {
+      "channel_id": "4",
+      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_name": "Channel 4",
+      "channel_type": "2",
+      "category_name": "Category 3",
+      "channel_image": "",
+      "channel_description": ""
+    },
+    {
+      "channel_id": "5",
+      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_name": "Channel 5",
+      "channel_type": "2",
+      "category_name": "Category 4",
+      "channel_image": "",
+      "channel_description": ""
+    },
+    {
+      "channel_id": "6",
+      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_name": "Channel 6",
+      "channel_type": "2",
+      "category_name": "Category 4",
+      "channel_image": "",
+      "channel_description": ""
+    },
+    {
+      "channel_id": "7",
+      "channel_url": "https://stream.crichd.vip/update/sscricket.php",
+      "channel_name": "Channel 7",
+      "channel_type": "2",
+      "category_name": "Category 2",
+      "channel_image": "",
+      "channel_description": ""
+    }
+  ],
+  "categories": [
+    {
+      "cid": 1,
+      "category_name": "Category 1",
+      "category_image": ""
+    },
+    {
+      "cid": 2,
+      "category_name": "Category 2",
+      "category_image": ""
+    },
+    {
+      "cid": 3,
+      "category_name": "Category 3",
+      "category_image": ""
+    },
+    {
+      "cid": 4,
+      "category_name": "Category 4",
+      "category_image": ""
+    }
+  ]
+}
